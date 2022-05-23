@@ -1,0 +1,459 @@
+@media all and (max-width: 730px) {
+    .menus {
+        display: flex;
+        margin-left: -500px;
+    }
+    .mens {
+        margin-right: -100px;
+        margin: 2px;
+        display: flex;
+    }
+    .eve {
+        margin-left: 60px;
+        font-size: 7px;
+        display: flex;
+        letter-spacing: 1px;
+    }
+    .search {
+        background-color: #ffffff;
+        width: 9%;
+        height: 5px;
+        margin-left: -30px;
+        margin-bottom: 80px;
+        border-radius: 4px;
+    }
+    .recherchebut {
+        margin-top: 10px;
+    }
+    .loupe {
+        height: 5px;
+    }
+    .search::placeholder {
+        font-size: 7px;
+        padding-bottom: 70px;
+        text-align: left;
+    }
+    .button {
+        margin-top: 15px;
+        margin-right: 810px;
+        margin-left: 40px;
+        position: relative;
+        font-size: 5px;
+        height: 15px;
+        width: 45px;
+    }
+    .divcone {
+        margin-left: -350px;
+        margin-top: 2px;
+    }
+    .entete .logo {
+        width: 5%;
+        margin-left: 1290px;
+    }
+    .panier {
+        width: 15px;
+        margin-top: 16px;
+        margin-right: 20px;
+        margin-left: -335px;
+    }
+    .vtr {
+        display: inline-block;
+    }
+    .votre {
+        font-size: 40px;
+        margin: -45px;
+        margin-left: 5px;
+        margin-top: -10px;
+    }
+    .plat_grand {
+        height: 200px;
+        float: right;
+        margin-top: 5px;
+        margin-left: 200px;
+    }
+    .menrese {
+        float: none;
+        margin-top: -30%;
+    }
+    .butt {
+        margin-bottom: 20px;
+        width: 40%;
+        font-size: 25px;
+    }
+    .butt2 {
+        margin-left: 34px;
+    }
+    .nos_menu {
+        font-size: 2em;
+        text-align: center;
+    }
+    .imslide {
+        height: 120px;
+        margin-left: -30px;
+    }
+    .défil1 {
+        width: 10px;
+        margin-left: 10px;
+        margin-top: 55px
+    }
+    .défil2 {
+        width: 10px;
+        margin-left: 180px;
+        margin-top: -19px;
+    }
+    .butnosplats {
+        margin-left: 65px;
+    }
+    .nopla {
+        height: 20px;
+        width: 250px;
+        font-size: 12px;
+    }
+    .imgliv {
+        height: 80px;
+    }
+    .livpartout {
+        font-size: 20px;
+        margin-top: 25px;
+    }
+    .Pat {
+        padding: 0px;
+        margin-top: -20px;
+    }
+    .nopat {
+        font-size: 10px;
+        padding-top: 10px;
+    }
+    .img1 {
+        height: 20px;
+    }
+    .img2 {
+        height: 15px;
+    }
+    .imgparte {
+        width: 300px;
+        padding-bottom: 20px;
+    }
+    .formulaire {
+        margin-top: -20px;
+        padding: 10px;
+    }
+    .form {
+        margin: 0 auto;
+    }
+    .nct {
+        font-size: 20px;
+    }
+    .txt {
+        font-size: 12px;
+        margin-top: 5px;
+    }
+    .inputsemi {
+        height: 38px;
+        width: 150px;
+    }
+    .inputsemidiff {
+        margin-left: -145px;
+        margin-top: 20px;
+    }
+    .inputsemi1 {
+        margin-left: -500px;
+        height: 37px;
+        width: 160px;
+        border: none;
+    }
+    .admail {
+        height: 38px;
+        width: 365px;
+        margin-top: 5px;
+    }
+    #AD {
+        margin-bottom: 10px;
+    }
+    .quest {
+        font-size: 12px;
+        margin-top: 5px;
+        width: 363px;
+        height: 100px;
+        border: none;
+    }
+    .soum {
+        font-size: 15px;
+        width: 100px;
+        height: 30px;
+    }
+    /* Début section de la localisation*/
+    .loc {
+        font-size: 15px;
+        margin-left: 20px;
+    }
+    .loca {
+        margin-left: 20px;
+    }
+    iframe {
+        width: 340px;
+        height: 300px
+    }
+    /* debut de la section des avis*/
+    .av {
+        margin-left: -570px;
+        margin-top: 30px;
+        margin-bottom: -30px;
+    }
+    .divavi {
+        height: 380px;
+    }
+    .avi {
+        font-size: 10px;
+        margin-left: 502px;
+        margin-top: -95px;
+    }
+    .redi {
+        font-size: 8px;
+        width: 10%;
+        height: 15px;
+        padding-top: 1%;
+        padding-left: 4%;
+        margin-top: 75px;
+    }
+    .imgcrayon {
+        width: 20px;
+        margin-top: -20px;
+        display: flex;
+        margin-left: 700px;
+    }
+    /* Premier avis (rose) */
+    .rose {
+        margin: 10%;
+        display: flex;
+        background-color: white;
+        border-radius: 10px;
+        height: 100px;
+        width: 300px;
+        margin-top: 60px;
+        margin-left: -65px;
+    }
+    .imgrose1 {
+        height: 30px;
+        margin-top: 9px;
+        margin-left: 9px;
+    }
+    .nomrose1 {
+        margin-top: 12px;
+        font-weight: 600;
+        font-size: 50%;
+        margin-left: 10px;
+    }
+    .comrose1 {
+        margin-top: 32px;
+        font-size: 10px;
+        margin-left: -45px;
+    }
+    .datrose1 {
+        margin-top: 85px;
+        margin-left: -25px;
+        font-weight: 600;
+        font-size: 10px;
+    }
+    /* deuxième avis (Karim)*/
+    .karim {
+        margin: 10%;
+        display: flex;
+        background-color: white;
+        border-radius: 10px;
+        height: 100px;
+        width: 300px;
+        margin-top: -10px;
+        margin-left: -65px;
+    }
+    .imgkarim1 {
+        height: 30px;
+        margin-top: 9px;
+        margin-left: 9px;
+    }
+    .nomkarim1 {
+        margin-top: 12px;
+        font-weight: 600;
+        font-size: 50%;
+        margin-left: 10px;
+    }
+    .comkarim1 {
+        margin-top: 32px;
+        font-size: 10px;
+        margin-left: -43px;
+    }
+    .datkarim1 {
+        margin-top: 85px;
+        margin-left: -15px;
+        font-weight: 600;
+        font-size: 10px;
+    }
+    /* troixième avi (fall) */
+    .fall {
+        margin: 10%;
+        display: flex;
+        background-color: white;
+        border-radius: 10px;
+        height: 100px;
+        width: 300px;
+        margin-top: -10px;
+        margin-left: -65px;
+    }
+    .imgfall2 {
+        height: 30px;
+        margin-top: 9px;
+        margin-left: 9px;
+    }
+    .nomfall2 {
+        margin-top: 12px;
+        font-weight: 600;
+        font-size: 50%;
+        margin-left: 10px;
+    }
+    .comfall2 {
+        margin-top: 32px;
+        font-size: 10px;
+        margin-left: -40px;
+    }
+    .datfall2 {
+        margin-top: 85px;
+        margin-left: -25px;
+        font-weight: 600;
+        font-size: 10px;
+    }
+    /* quatrième avis (césare) */
+    .césare2 {
+        margin: 10%;
+        display: flex;
+        background-color: white;
+        border-radius: 10px;
+        height: 100px;
+        width: 300px;
+        margin-top: -10px;
+        margin-left: -65px;
+    }
+    .imgcésare2 {
+        height: 30px;
+        margin-top: 9px;
+        margin-left: 9px;
+    }
+    .nomcésare2 {
+        margin-top: 12px;
+        font-weight: 600;
+        font-size: 50%;
+        margin-left: 10px;
+    }
+    .comcésare2 {
+        margin-top: 32px;
+        font-size: 10px;
+        margin-left: -47px;
+    }
+    .datcésare2 {
+        margin-top: 85px;
+        margin-left: -15px;
+        font-weight: 600;
+        font-size: 10px;
+    }
+    /* réseaux sociaux */
+    .backréseaux {
+        background-color: black;
+        height: 60px;
+        width: 390px;
+        margin-top: -10px;
+    }
+    .icon {
+        justify-content: center;
+        display: flex;
+        opacity: .6;
+        transition: opacity .3s;
+    }
+    .icon:hover {
+        opacity: 1;
+    }
+    .fcbook {
+        height: 22px;
+        margin-top: -1px;
+        margin-right: 70px;
+    }
+    .insta {
+        height: 26px;
+        margin-right: 70px;
+        margin-top: -4px;
+    }
+    .what {
+        height: 25px;
+        margin-top: -2px;
+    }
+    /* ici débute la section footer*/
+    .backend {
+        background-color: #EBE7E6;
+        height: 240px;
+        width: 1000px;
+        font-family: 'Inter', sans-serif;
+        margin-top: -18px;
+        display: flex;
+        font-size: 12px;
+    }
+    .divrestau {
+        margin-top: -5px;
+        margin-left: 25px;
+        font-size: 13px;
+        font-weight: 800;
+    }
+    .logos {
+        height: 115px;
+        margin-left: 5px;
+        margin-top: 5px;
+    }
+    .besoin {
+        margin-left: 120px;
+        margin-top: -95px;
+        font-weight: 600;
+        font-size: 20px;
+    }
+    .abonner {
+        background-color: black;
+        color: white;
+        text-align: center;
+        font-size: 10px;
+    }
+    .divbetel {
+        display: flex;
+    }
+    .restezcon {
+        margin-top: 150px;
+        font-weight: 600;
+        font-size: 10px;
+        margin-left: -350px;
+    }
+    .emplaceho {
+        width: 100px;
+        font-size: 13px;
+    }
+    .betel {
+        margin-left: 120px;
+        margin-top: -20px;
+    }
+    .apropos {
+        margin-left: -380px;
+        font-weight: 700;
+        margin-top: 15px;
+    }
+    .copyright {
+        margin-top: 15px;
+        font-size: 8px;
+        margin-left: -310px;
+    }
+    .dev {
+        margin-left: 8px;
+        font-size: 8px;
+        margin-top: 15px;
+    }
+}
+
+
+
+        
+
+    
+}

@@ -1,0 +1,453 @@
+@media all and (max-width: 1372px){
+
+    .eve {
+        margin-left: -600px;
+        font-size: 25px;
+        display: flex;
+        letter-spacing: 1px;
+        margin-top: -1px;
+    }
+.logo{
+    width: 150px;
+    margin-right: 500px;
+}
+.recherchebut {
+    margin-top: 20px;
+}
+.search {
+    background-color: #ffffff;
+    width:  150px;
+    height: 30px;
+    margin-left: -90px;
+    margin-bottom: 100px;
+    border-radius: 4px;
+    
+}
+.search::placeholder {
+    font-size: 15px;
+    padding-bottom: 100px;
+    text-align: left;
+}
+
+.divcone{
+    margin-left: -500px;
+    margin-top: -12px;
+}
+
+.plat_grand {
+    height: 459px;
+    margin-top: -16px;
+    margin-right: -550px;
+    animation: transform cubic-bezier(0, 0, 0, 0.99) .10s;
+}
+
+ .votre {
+        font-size: 70px;
+    
+        margin-left: 90px;
+        margin-top: -10px;
+    }
+
+ .menrese {
+        float: none;
+        margin-top: 20px;
+        margin-left: -2px;
+    }
+/* ici va débuter la page du menu*/
+
+
+.nos_menu {
+    font-size: 2em;
+    margin-left: 100px;
+}
+
+.imslide {
+    height: 300px;
+    margin-left: 10px;
+}
+
+.défil1 {
+    width:30px;
+    margin-left: 80px;
+    margin-top: 30px
+}
+.défil2 {
+    width: 35px;
+    margin-left: 540px;
+}
+
+.butnosplats {
+    margin-left: 445px;
+    margin-top: 120px;
+}
+.nopla {
+    height: 30px;
+    width: 350px;
+    font-size: 15px;
+}
+.imgliv {
+    height: 100px;
+}
+.livpartout {
+    font-size: 30px;
+    margin-top: 20px;
+}
+
+.Pat {
+    padding: 0px;
+    margin-top: -20px;
+}
+.nopat {
+    font-size: 20px;
+    padding-top: 10px;
+}
+.img1 {
+    height: 50px;
+}
+.img2 {
+    height: 40px;
+}
+.imgparte {
+    width: 900px;
+    padding-bottom: 20px;
+}
+
+/*debut de la page du questionnaire*/
+.formulaire {
+    margin-top: -20px;
+    padding: 10px;
+}
+.formulaire ::placeholder{font-size: 10px;
+text-align: left;}
+.form {
+    margin: 0 auto;
+}
+.nct {
+    font-size: 20px;
+}
+.txt {
+    font-size: 12px;
+    margin-top: 5px;
+}
+.inputsemi {
+    height: 38px;
+    width: 150px;
+}
+.inputsemidiff {
+    margin-left: -145px;
+    margin-top: 20px;
+}
+.inputsemi1 {
+    margin-left: -500px;
+    height: 37px;
+    width: 160px;
+    border: none;
+}
+.admail {
+    height: 38px;
+    width: 365px;
+    margin-top: 5px;
+}
+#AD {
+    margin-bottom: 10px;
+}
+.quest {
+    font-size: 10px;
+    margin-top: 5px;
+    width: 363px;
+    height: 100px;
+    border: none;
+}
+.soum {
+    font-size: 15px;
+    width: 100px;
+    height: 30px;
+}
+
+
+
+/* Début section de la localisation*/
+.loc {
+    font-size: 15px;
+    margin-left: 470px;
+}
+.loca {
+    margin-left: 470px;
+}
+iframe {
+    width: 340px;
+    height: 300px
+}
+
+/* debut de la section des avis*/
+.av {
+    margin-left: -220px;
+    margin-top: 30px;
+    margin-bottom: -30px;
+}
+.divavi {
+    height: 380px;
+}
+.avi {
+    font-size: 20px;
+    margin-left: 320px;
+    margin-top: -95px;
+}
+.redi {
+    font-size: 8px;
+    width: 10%;
+    height: 15px;
+    padding-top: 1px;
+    
+    margin-top: 75px;
+    padding-right: -50px;
+    float: right;
+    margin-right: 190px;
+    }
+}
+.imgcrayon {
+    width: 20px;
+    margin-top: -20px;
+    display: flex;
+    margin-left: 700px;
+}
+/* Premier avis (rose) */
+.rose {
+    margin: 100px;
+    display: ;
+    background-color: white;
+    border-radius: 10px;
+    height: 100px;
+    width: 300px;
+    margin-top: 60px;
+    margin-left: px;
+}
+.imgrose1 {
+    height: 30px;
+    margin-top: 9px;
+    margin-left: 9px;
+}
+.nomrose1 {
+    margin-top: 12px;
+    font-weight: 600;
+    font-size: 50%;
+    margin-left: 10px;
+}
+.comrose1 {
+    margin-top: 32px;
+    font-size: 10px;
+    margin-left: -45px;
+}
+.datrose1 {
+    margin-top: 85px;
+    margin-left: -25px;
+    font-weight: 600;
+    font-size: 10px;
+}
+/* deuxième avis (Karim)*/
+.karim {
+    margin: 10%;
+    display: flex;
+    background-color: white;
+    border-radius: 10px;
+    height: 100px;
+    width: 300px;
+    margin-top: -10px;
+    margin-left: px;
+}
+.imgkarim1 {
+    height: 30px;
+    margin-top: 9px;
+    margin-left: 9px;
+}
+.nomkarim1 {
+    margin-top: 12px;
+    font-weight: 600;
+    font-size: 50%;
+    margin-left: 10px;
+}
+.comkarim1 {
+    margin-top: 32px;
+    font-size: 10px;
+    margin-left: -43px;
+}
+.datkarim1 {
+    margin-top: 85px;
+    margin-left: -15px;
+    font-weight: 600;
+    font-size: 10px;
+}
+/* troixième avi (fall) */
+.fall {
+    margin: 10%;
+    display: flex;
+    background-color: white;
+    border-radius: 10px;
+    height: 100px;
+    width: 300px;
+    margin-top: 90px;
+    margin-left: 500px;
+}
+.imgfall2 {
+    height: 30px;
+    margin-top: 9px;
+    margin-left: 9px;
+}
+.nomfall2 {
+    margin-top: 12px;
+    font-weight: 600;
+    font-size: 50%;
+    margin-left: 10px;
+}
+.comfall2 {
+    margin-top: 32px;
+    font-size: 10px;
+    margin-left: -40px;
+}
+.datfall2 {
+    margin-top: 85px;
+    margin-left: -25px;
+    font-weight: 600;
+    font-size: 10px;
+}
+/* quatrième avis (césare) */
+.césare2 {
+    margin: 10px;
+    display: flex;
+    background-color: white;
+    border-radius: 10px;
+    height: 100px;
+    width: 300px;
+    margin-top: -390px;
+    margin-left: 500px;
+}
+.imgcésare2 {
+    height: 30px;
+    margin-top: 9px;
+    margin-left: 9px;
+}
+.nomcésare2 {
+    margin-top: 12px;
+    font-weight: 600;
+    font-size: 50%;
+    margin-left: 10px;
+}
+.comcésare2 {
+    margin-top: 32px;
+    font-size: 10px;
+    margin-left: -47px;
+}
+.datcésare2 {
+    margin-top: 85px;
+    margin-left: -15px;
+    font-weight: 600;
+    font-size: 10px;
+}
+/* réseaux sociaux */
+.backréseaux {
+    background-color: black;
+    height: 60px;
+    width: 1278px;
+    margin-top: -10px;
+}
+.icon {
+    justify-content: center;
+    display: flex;
+    opacity: .6;
+    transition: opacity .3s;
+}
+.icon:hover {
+    opacity: 1;
+}
+.fcbook {
+    height: 22px;
+    margin-top: -1px;
+    margin-right: 70px;
+}
+.insta {
+    height: 26px;
+    margin-right: 70px;
+    margin-top: -4px;
+}
+.what {
+    height: 25px;
+    margin-top: -2px;
+}
+
+ /* ici débute la section footer*/
+ .backend {
+    
+}
+.divrestau {
+    margin-top: -15px;
+    margin-left: 25px;
+    font-size: 15px;
+    font-weight: 800;
+}
+.logos {
+    height: 115px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+.besoin {
+    margin-top: -143px;
+   
+}
+.abonner {
+    
+}
+.divbetel {
+   
+}
+.restezcon {
+    margin-top: 0;
+    margin-left: 0px;
+   
+}
+.emplaceho {
+    
+}
+.betel {
+    
+}
+.apropos {
+    margin-left: 35px;
+   
+}
+.copyright {
+    margin-left: 12px;
+   
+}
+.dev {
+    margin-left: 10px;
+   
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

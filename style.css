@@ -1,0 +1,210 @@
+body {
+    margin: 0 70px 0 70px;
+    background-color: #ebe7e6;
+}
+
+.logo {
+    margin-top: -50px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+    margin-top: 40px;
+}
+
+.mens,
+.men {
+    font-family: Prompt;
+    text-decoration: none;
+    font-size: 3vh;
+    margin-right: 50px;
+    color: black;
+    font-weight: 700;
+}
+
+.search-btn {
+    height: 5vh;
+    width: 30vh;
+    border-radius: 8px;
+    margin-top: -7px;
+}
+
+.search-btn::placeholder {
+    font-size: 2.5vh;
+    size: 3vh;
+    padding-left: 10px;
+}
+
+.panier {
+    margin-top: -7px;
+}
+
+header .plat_grand {
+    margin-right: -50px;
+}
+
+.connect-btn {
+    margin-top: -7px;
+    background-color: green;
+    border: none;
+    border-radius: 20px;
+    width: 20vh;
+    height: 5vh;
+    color: white;
+    font-size: 2.5vh;
+    font-weight: 700;
+    margin-right: 50px;
+    font-family: Britannic Bold;
+}
+
+.menu-secondaire {
+    display: flex;
+    margin: 0 50px 0 50px;
+    margin-top: -15px;
+}
+
+h1 {
+    font-size: 12vh;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 700;
+    line-height: 120px;
+    margin-top: 5px;
+}
+
+.btn-nos-menu {
+    background-color: green;
+    color: white;
+    border: none;
+    width: 30vh;
+    height: 7vh;
+    font-size: 4vh;
+    border-radius: 30px;
+    box-shadow: 0 2px 3px 2px #000;
+    margin-right: 50px;
+    font-family: Britannic Bold;
+}
+
+.btn-reservation {
+    background-color: rgb(252, 252, 252);
+    color: black;
+    border: none;
+    width: 30vh;
+    height: 7vh;
+    font-size: 4vh;
+    border-radius: 30px;
+    box-shadow: 0 2px 3px 2px #000;
+    font-family: Britannic Bold;
+}
+
+.mes-btn {
+    margin-left: 50px;
+    margin-top: -100px;
+}
+
+
+/* ICI DEBUTE LA DEUXIEME PAGE DE MON CODE 
+c'est ç dire la section menu*/
+
+h2 {
+    color: #E56E00;
+    font-size: 7vh;
+    margin-left: 45px;
+    font-family: Josefin Sans;
+    font-weight: 700;
+}
+
+.section-menu {
+    margin-top: 200px;
+}
+
+.slide {
+    display: flex;
+    margin-top: 100px;
+}
+
+.slideplat {
+    margin: 0 auto;
+    height: 50vh;
+    min-height: 5vh;
+}
+
+.mes-btn-slide {
+    height: 5vh;
+    padding-top: 220px;
+}
+
+.btn-plat-plus {
+    background-color: #E56E00;
+    color: white;
+    border: none;
+    border-radius: 15px;
+    height: 7vh;
+    width: 80vh;
+    font-family: Josefin Sans;
+    font-size: 3.8vh;
+    margin-top: 50px;
+}
+
+.lien-btn-plat-plus {
+    display: flex;
+    margin: 0 auto;
+    text-decoration: none;
+}
+
+.img-livraison {
+    height: 20vh;
+}
+
+.section-livraison {
+    display: flex;
+    margin-top: 50px;
+}
+
+.section-livraison {
+    margin-left: 50vh;
+    min-width: 10vh;
+    font-family: Josefin Sans;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+p,
+.section-livraison {
+    font-size: 5vh;
+    margin-top: 55px;
+}
+
+
+/* Section des partenaires */
+
+.section-partenaire {
+    /* display: flex; */
+    background-color: rgb(255, 255, 255);
+    width: 200vh;
+    height: 20vh;
+    margin-left: -70px;
+    justify-content: center;
+}
+
+h3 {
+    justify-content: center;
+    margin: 0 auto;
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+
+logo-partenaires {
+    justify-content: space-between;
+    padding: 0 auto;
+}
+
+.img-type1 {
+    height: 10vh;
+}
+
+.img-type2 {
+    height: 9vh;
+}
